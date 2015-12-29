@@ -25,7 +25,6 @@ CribHolder-Top : This fits on to the crib top - This embeds a nut from
 http://www.thingiverse.com/thing:193647 -> allowing to be fastened to
 the crib as required. (we have a nut\_6x9.stl embedded into things
 here)
-	- NOTE: it is better to print this by rotating this with 90 degrees.
 	- Use of support is recommended (unfortunately a bit of overhang) and brim as needed.
 	- See Utils/NutJob for details
 	- Use atleast 50% fill for the Nut print (they dont seem to handle the
