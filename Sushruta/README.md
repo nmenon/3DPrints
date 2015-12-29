@@ -35,3 +35,11 @@ MedTray: This was derived out of a simple need: How to ensure that
 Nurses can maintain the venting syringe, Med cup (with medication
 in syringes), nebulizer cups, neb tubing and compressor tubing not
 touching stuff they are not supposed to?
+
+FeedHolder: (infinity Pump) For Children with G-tube, there is the
+Kangroo ( http://www.kangarooepump.com/ ) and the infinity feeding
+pump ( http://www.infinityfeedingpump.com/ ) Most of these pumps are
+held up using a big feeding pole. Here is a crib side Feedholder
+solution for inifinity pumps. This is designed to work with the
+CribHolder-Top.
+
