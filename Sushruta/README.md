@@ -42,3 +42,19 @@ held up using a big feeding pole. Here is a crib side Feedholder
 solution for inifinity pumps. This is designed to work with the
 CribHolder-Top.
 
+NebHolder: Many very young children on ventilator support use in-line
+nebulizer support. These nebulizers are not held to the face, instead
+are inlined through the ventilator tubing port. The Nebulizers
+unfortunately come with support for hand held/mask supply - which
+makes business sense since majority of the users are of that age
+group. However for infants who are scared already of all the medical
+equipment, a little bit of a distraction is useful. Further, trying to
+keep these nebulizers stable with a kicking and active child is even
+more hard. Hence.. the Nebulizer Holder :). This uses the Utils/Nutjob
+(http://www.thingiverse.com/thing:193647) nut\_6x9.stl embedded into
+the carraige and needs a washer and an additional nut\_6x9.stl jack to
+hold things together. TBD: I wish i had changed the smokestack to be a
+little wider to fit in the tip of the neb tube when changing, but it
+can be stuck up in the carriage way as well. I also think this design
+can be modified with a small motor and AA battery holder in carraige way
+to give periodic shake to the neb cup to help the meds move along.
